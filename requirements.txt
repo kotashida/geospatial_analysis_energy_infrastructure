@@ -1,0 +1,10 @@
+geopandas
+fiona
+shapely
+pyproj
+matplotlib
+seaborn
+folium
+numpy
+pandas
+pytest
